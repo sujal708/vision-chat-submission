@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-VisionChat is an AI-powered chat assistant that analyzes video content and allows users to have conversations about what's happening in the video. This project is designed to be a high-performance, scalable solution, optimized for low latency and handling long-form video content, addressing the challenges of Round 2. Users can upload a short video (up to 2 minutes), and the application will automatically extract key frames, generate descriptive captions, create a summary, and enable a conversational chat experience to ask detailed questions about the video's contents.
+VisionChat is an AI-powered chat assistant that analyzes video content and allows users to have conversations about what's happening in the video. This project is designed to be a high-performance, scalable solution, optimized for low latency and handling long-form video content, addressing the challenges of Round 2. Users can upload a short video (up to 2 minutes), and the application will automatically extract key frames, generate descriptive captions, create a summary, and enable a conversational chat experience to ask detailed questions about the video's contents.Now its ready for round 2 requirements too but need to purchase Gemini API key.
 
 ## Tech Stack Justification
 
